@@ -12,25 +12,25 @@
 ### Part I: **Data Structures and Their Applications**  
 1. **Arrays**  
    1. **Basic Array Algorithms**  
-      1. LeetCode 27 (Remove Element ★)  
-      2. LeetCode 283 (Move Zeroes ★)  
-      3. LeetCode 75 (Sort Colors ★★)  
-      4. LeetCode 189 (Rotate Array ★★)  
+      1. LeetCode 27 (Remove Element ★)  -XJ
+      2. LeetCode 283 (Move Zeroes ★)  -JZ
+      3. LeetCode 75 (Sort Colors ★★)  -XJ
+      4. LeetCode 189 (Rotate Array ★★)  -JZ
    2. **Ordered Array Algorithms**  
-      1. LeetCode 26 (Remove Duplicates ★)  
-      2. LeetCode 88 (Merge Sorted Arrays ★)  
-      3. LeetCode 264 (Ugly Number II ★★)
+      1. LeetCode 26 (Remove Duplicates ★)  -XJ
+      2. LeetCode 88 (Merge Sorted Arrays ★)  -JZ
+      3. LeetCode 264 (Ugly Number II ★★) -XJ
    3. **Practice**
-      1. LeetCode 66 (★)
-      2. LeetCode 280 (★★)
-      3. LeetCode 360 (★★)
-      4. LeetCode 905 (★)
-      5. Leetcode 986  (★★)
-      6. Leetcode 1243  (★)
-      7. Leetcode 1439  (★★★)
-      8. Leetcode 1920  (★)
-      9. Leetcode 1929  (★)
-      10. Leetcode 2089  (★)
+      1. LeetCode 66 (★)  -JZ
+      2. LeetCode 280 (★★) -XJ
+      3. LeetCode 360 (★★) -JZ
+      4. LeetCode 905 (★) -XJ
+      5. Leetcode 986  (★★) -JZ
+      6. Leetcode 1243  (★) -XJ
+      7. Leetcode 1439  (★★★) -JZ
+      8. Leetcode 1920  (★) -XJ
+      9. Leetcode 1929  (★) -JZ
+      10. Leetcode 2089  (★) -XJ
 
 
 
