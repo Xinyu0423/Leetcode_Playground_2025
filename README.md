@@ -19,7 +19,20 @@
    2. **Ordered Array Algorithms**  
       1. LeetCode 26 (Remove Duplicates ★)  
       2. LeetCode 88 (Merge Sorted Arrays ★)  
-      3. LeetCode 264 (Ugly Number II ★★)  
+      3. LeetCode 264 (Ugly Number II ★★)
+   3. **Practice**
+      1. LeetCode 66 (★)
+      2. LeetCode 280 (★★)
+      3. LeetCode 360 (★★)
+      4. LeetCode 905 (★)
+      5. Leetcode 986  (★★)
+      6. Leetcode 1243  (★)
+      7. Leetcode 1439  (★★★)
+      8. Leetcode 1920  (★)
+      9. Leetcode 1929  (★)
+      10. Leetcode 2089  (★)
+
+
 
 2. **Linked Lists**  
    1. **Basic Operations**  
