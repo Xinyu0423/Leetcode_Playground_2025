@@ -21,16 +21,16 @@
       2. LeetCode 88 (Merge Sorted Arrays ★)  -JZ
       3. LeetCode 264 (Ugly Number II ★★) -XJ
    3. **Practice**
-      1. LeetCode 66 (★)  -JZ
-      2. LeetCode 280 (★★) -XJ
-      3. LeetCode 360 (★★) -JZ
-      4. LeetCode 905 (★) -XJ
-      5. Leetcode 986  (★★) -JZ
-      6. Leetcode 1243  (★) -XJ
-      7. Leetcode 1439  (★★★) -JZ
-      8. Leetcode 1920  (★) -XJ
-      9. Leetcode 1929  (★) -JZ
-      10. Leetcode 2089  (★) -XJ
+      1. LeetCode 66 (Plus One ★) -JZ
+      2. LeetCode 280 (Wiggle Sort ★★) -XJ
+      3. LeetCode 360 (Sort Transformed Array ★★) -JZ
+      4. LeetCode 905 (Sort Array By Parity ★) -XJ
+      5. LeetCode 986 (Interval List Intersections ★★) -JZ
+      6. LeetCode 1243 (Replace the Substring for Balanced String ★) -XJ
+      7. LeetCode 1439 (Find the Kth Smallest Sum of a Matrix With Sorted Rows ★★★) -JZ
+      8. LeetCode 1920 (Build Array from Permutation ★) -XJ
+      9. LeetCode 1929 (Concatenation of Array ★) -JZ
+      10. LeetCode 2089 (Find Target Indices After Sorting Array ★) -XJ
 
 
 
