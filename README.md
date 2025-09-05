@@ -12,14 +12,23 @@
 ### Part I: **Data Structures and Their Applications**  
 1. **Arrays**  
    1. **Basic Array Algorithms**  
-      1. LeetCode 27 (Remove Element ★)  -XJ
-      2. LeetCode 283 (Move Zeroes ★)  -JZ
-      3. LeetCode 75 (Sort Colors ★★)  -XJ
-      4. LeetCode 189 (Rotate Array ★★)  -JZ
+      1. LeetCode 27 (Remove Element ★) -XJ
+      2. LeetCode 283 (Move Zeroes ★) -JZ
+      3. LeetCode 2460 (Apply Operations to an Array ★) -XJ
+      4. LeetCode 75 (Sort Colors ★★) -JZ
+      5. LeetCode 189 (Rotate Array ★★) -XJ
    2. **Ordered Array Algorithms**  
-      1. LeetCode 26 (Remove Duplicates ★)  -XJ
-      2. LeetCode 88 (Merge Sorted Arrays ★)  -JZ
-      3. LeetCode 264 (Ugly Number II ★★) -XJ
+      1. LeetCode 26 (Remove Duplicates ★)  -JZ  
+      2. LeetCode 80 (Remove Duplicates from Sorted Array II ★★)  -XJ 
+      3. LeetCode 1287 (Element Appearing More Than 25% In Sorted Array ★)  -JZ
+      4. LeetCode 1200 (Minimum Absolute Difference ★)  -XJ
+      5. LeetCode 88 (Merge Sorted Array ★)  -JZ
+      6. LeetCode 349 (Intersection of Two Arrays ★)  -XJ
+      7. LeetCode 977 (Squares of a Sorted Array ★)  -JZ
+      8. LeetCode 1470 (Shuffle the Array ★)  -XJ
+      9. LeetCode 1213 (Intersection of Three Sorted Arrays ★)  -JZ
+      10. LeetCode 264 (Ugly Number II ★★)  -XJ 
+      11. LeetCode 373 (Find K Pairs with Smallest Sums ★★)  -JZ
    3. **Practice**
       1. LeetCode 66 (Plus One ★) -JZ
       2. LeetCode 280 (Wiggle Sort ★★) -XJ
