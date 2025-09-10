@@ -26,7 +26,7 @@
       6. LeetCode 349 (Intersection of Two Arrays ★)  -XJ
       7. LeetCode 977 (Squares of a Sorted Array ★)  -JZ
       8. LeetCode 1470 (Shuffle the Array ★)  -XJ
-      9. LeetCode 1213 (Intersection of Three Sorted Arrays ★)  -JZ
+      9. ~~LeetCode 1213 (Intersection of Three Sorted Arrays ★)  -JZ (Premium question skip this one)~~
       10. LeetCode 264 (Ugly Number II ★★)  -XJ 
       11. LeetCode 373 (Find K Pairs with Smallest Sums ★★)  -JZ
    3. **Practice**
