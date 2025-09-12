@@ -45,14 +45,42 @@
 
 2. **Linked Lists**  
    1. **Basic Operations**  
-      1. LeetCode 206 (Reverse Linked List ★)  
-      2. LeetCode 141 (Linked List Cycle ★)  
-      3. LeetCode 138 (Copy List with Random Pointer ★★)  
+      1. LeetCode 203 (Remove Linked List Elements ★)  - XJ
+      2. LeetCode 206 (Reverse Linked List ★)  - JZ
+      3. LeetCode 328 (Odd Even Linked List ★★)  - XJ
+      4. LeetCode 61 (Rotate List ★★)  - JZ
+      5. LeetCode 141 (Linked List Cycle ★) - XJ 
+      6. LeetCode 138 (Copy List with Random Pointer ★★) - JZ  
+      7. LeetCode 707 (Design Linked List ★★)  - XJ
    2. **Grouping Operations**  
-      1. LeetCode 25 (Reverse Nodes in k-Group ★★★)  
+      1. LeetCode 92 (Reverse Linked List II ★★)  - JZ
+      2. LeetCode 24 (Swap Nodes in Pairs ★★)  - XJ
+      3. LeetCode 25 (Reverse Nodes in k-Group ★★★) -JZ 
    3. **Sorted Linked Lists**  
-      1. LeetCode 21 (Merge Two Sorted Lists ★)  
-      2. LeetCode 23 (Merge k Sorted Lists ★★★)  
+      1. LeetCode 83 (Remove Duplicates from Sorted List ★) -XJ  
+      2. LeetCode 82 (Remove Duplicates from Sorted List II ★★) - JZ  
+      3. LeetCode 21 (Merge Two Sorted Lists ★)  - XJ
+      4. LeetCode 23 (Merge k Sorted Lists ★★★)  - JZ
+      5. LeetCode 1634 (Add Two Polynomials Represented as Linked Lists ★★) -XJ  
+   4. **Practice**  
+      1. LeetCode 19 (Remove Nth Node From End of List ★★) - JZ  
+      2. LeetCode 86 (Partition List ★★)  - XJ
+      3. LeetCode 141 (Linked List Cycle ★)  - JZ
+      4. LeetCode 142 (Linked List Cycle II ★★) - XJ 
+      5. LeetCode 143 (Reorder List ★★)  - JZ
+      6. LeetCode 147 (Insertion Sort List ★★) - XJ  
+      7. LeetCode 160 (Intersection of Two Linked Lists ★) - JZ  
+      8. LeetCode 234 (Palindrome Linked List ★)   - XJ
+      9. LeetCode 237 (Delete Node in a Linked List ★) - JZ 
+      10. LeetCode 725 (Split Linked List in Parts ★★)  - XJ
+      11. LeetCode 876 (Middle of the Linked List ★)  - JZ
+      12. LeetCode 1474 (Delete N Nodes After M Nodes of a Linked List ★) - XJ  
+      13. LeetCode 1669 (Merge In Between Linked Lists ★★) - JZ  
+      14. LeetCode 1721 (Swapping Nodes in a Linked List ★★) - XJ 
+      15. LeetCode 1836 (Remove Duplicates From an Unsorted Linked List ★★) - JZ  
+      16. LeetCode 2046 (Sort Linked List Already Sorted Using Absolute Values ★★) - XJ 
+      17. LeetCode 2095 (Delete the Middle Node of a Linked List ★★) -JZ  
+      18. LeetCode 2296 (Design a Text Editor ★★★) — XJ
 
 3. **Stacks**  
    1. **Extended Stack Designs**  
