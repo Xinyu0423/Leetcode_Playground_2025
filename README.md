@@ -31,8 +31,8 @@
       11. LeetCode 373 (Find K Pairs with Smallest Sums ★★)  -JZ
    3. **Practice**
       1. LeetCode 66 (Plus One ★) -JZ
-      2. LeetCode 280 (Wiggle Sort ★★) -XJ
-      3. LeetCode 360 (Sort Transformed Array ★★) -JZ
+      2. ~~LeetCode 280 (Wiggle Sort ★★) -XJ~~(Premium question skip this one)~~
+      3. LeetCode 360 (Sort Transformed Array ★★) -JZ~~(Premium question skip this one)~~
       4. LeetCode 905 (Sort Array By Parity ★) -XJ
       5. LeetCode 986 (Interval List Intersections ★★) -JZ
       6. LeetCode 1243 (Replace the Substring for Balanced String ★) -XJ
