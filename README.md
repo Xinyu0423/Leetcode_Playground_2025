@@ -32,10 +32,10 @@
    3. **Practice**
       1. LeetCode 66 (Plus One ★) -JZ
       2. ~~LeetCode 280 (Wiggle Sort ★★) -XJ~~(Premium question skip this one)~~
-      3. LeetCode 360 (Sort Transformed Array ★★) -JZ~~(Premium question skip this one)~~
+      3. ~~LeetCode 360 (Sort Transformed Array ★★) -JZ(Premium question skip this one)~~
       4. LeetCode 905 (Sort Array By Parity ★) -XJ
       5. LeetCode 986 (Interval List Intersections ★★) -JZ
-      6. LeetCode 1243 (Replace the Substring for Balanced String ★) -XJ
+      6. ~~LeetCode 1243 (Replace the Substring for Balanced String ★) -XJ(Premium question skip this one)~~
       7. LeetCode 1439 (Find the Kth Smallest Sum of a Matrix With Sorted Rows ★★★) -JZ
       8. LeetCode 1920 (Build Array from Permutation ★) -XJ
       9. LeetCode 1929 (Concatenation of Array ★) -JZ
