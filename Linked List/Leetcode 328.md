@@ -30,3 +30,36 @@ class Solution:
         even.next = odd_res.next
         return even_res.next
 ```
+
+# Solution 2
+```Python
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution(object):
+    def oddEvenList(self, head):
+        """
+        :type head: Optional[ListNode]
+        :rtype: Optional[ListNode]
+        """
+        odd_LL = ListNode(-1)
+        even_LL = ListNode(-1)
+        res = odd_LL
+        temp_even= even_LL
+        p = head
+        while p is not None:
+            odd_LL.next = p
+            odd_LL = p
+            p = p.next
+            if p is not None:
+                even_LL.next = p
+                even_LL = p
+                p = p.next
+        
+        odd_LL.next = temp_even.next
+        even_LL.next = None
+        return res.next
+        
+```
