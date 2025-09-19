@@ -43,3 +43,25 @@ class Solution(object):
             p = temp
         return pre
 ```
+
+# Solution 3 (Ji)
+```python
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        dummy_node = ListNode(-1)
+        result = dummy_node
+        l = []
+        while head:
+            l.append(head.val)
+            head = head.next
+        for i in range(len(l)-1, -1, -1):
+            dummy_node.next = ListNode(l[i])
+            dummy_node =  dummy_node.next
+        dummy_node.next = None
+        return result.next
+```
