@@ -61,7 +61,7 @@
       2. LeetCode 82 (Remove Duplicates from Sorted List II ★★) - JZ  
       3. LeetCode 21 (Merge Two Sorted Lists ★)  - XJ
       4. LeetCode 23 (Merge k Sorted Lists ★★★)  - JZ
-      5. LeetCode 1634 (Add Two Polynomials Represented as Linked Lists ★★) -XJ  
+      5. ~~LeetCode 1634 (Add Two Polynomials Represented as Linked Lists ★★) -XJ  (Premium question skip this one)~~
    4. **Practice**  
       1. LeetCode 19 (Remove Nth Node From End of List ★★) - JZ  
       2. LeetCode 86 (Partition List ★★)  - XJ
