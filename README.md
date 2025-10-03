@@ -65,7 +65,7 @@
    4. **Practice**  
       1. LeetCode 19 (Remove Nth Node From End of List ★★) - JZ  
       2. LeetCode 86 (Partition List ★★)  - XJ
-      3. LeetCode 141 (Linked List Cycle ★)  - JZ
+      3. ~~LeetCode 141 (Linked List Cycle ★)  - JZ(Already did this question)~~
       4. LeetCode 142 (Linked List Cycle II ★★) - XJ 
       5. LeetCode 143 (Reorder List ★★)  - JZ
       6. LeetCode 147 (Insertion Sort List ★★) - XJ  
