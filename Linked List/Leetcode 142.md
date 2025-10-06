@@ -12,7 +12,6 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        index = 0
         fast = head
         slow = head
         h = ListNode(None)
@@ -31,5 +30,4 @@ class Solution(object):
                 return slow
             fast = fast.next
             slow = slow.next
-
 ```
