@@ -74,11 +74,11 @@
       9. LeetCode 237 (Delete Node in a Linked List ★) - JZ 
       10. LeetCode 725 (Split Linked List in Parts ★★)  - XJ
       11. LeetCode 876 (Middle of the Linked List ★)  - JZ
-      12. LeetCode 1474 (Delete N Nodes After M Nodes of a Linked List ★) - XJ  
+      12. ~~LeetCode 1474 (Delete N Nodes After M Nodes of a Linked List ★) - XJ(Premium question skip this one)~~  
       13. LeetCode 1669 (Merge In Between Linked Lists ★★) - JZ  
       14. LeetCode 1721 (Swapping Nodes in a Linked List ★★) - XJ 
-      15. LeetCode 1836 (Remove Duplicates From an Unsorted Linked List ★★) - JZ  
-      16. LeetCode 2046 (Sort Linked List Already Sorted Using Absolute Values ★★) - XJ 
+      15. ~~LeetCode 1836 (Remove Duplicates From an Unsorted Linked List ★★) - JZ(Premium question skip this one)~~  
+      16. ~~LeetCode 2046 (Sort Linked List Already Sorted Using Absolute Values ★★) - XJ(Premium question skip this one)~~ 
       17. LeetCode 2095 (Delete the Middle Node of a Linked List ★★) -JZ  
       18. LeetCode 2296 (Design a Text Editor ★★★) — XJ
 
