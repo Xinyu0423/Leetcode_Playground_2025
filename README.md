@@ -84,24 +84,24 @@
 
 3. **Stacks**  
    1. **Extended Stack Designs**  
-      1. LeetCode 1381 (Design a Stack With Increment Operation ★★) -XJ
-      2. LeetCode 155 (Min Stack ★★) -JZ
-      3. LeetCode 716 (Max Stack ★★) -XJ
+      1. LeetCode 1381 (Design a Stack With Increment Operation ★★) -JZ
+      2. LeetCode 155 (Min Stack ★★) -XJ
+      3. LeetCode 716 (Max Stack ★★) -JZ
    2. **Stack Applications**  
-      1. LeetCode 1544 (Make The String Great ★) -JZ
-      2. LeetCode 71 (Simplify Path ★★) -XJ
-      3. LeetCode 1441 (Build an Array With Stack Operations ★★) -JZ
-      4. LeetCode 946 (Validate Stack Sequences ★★) -XJ
-      5. LeetCode 20 (Valid Parentheses ★) -JZ
-      6. LeetCode 1249 (Minimum Remove to Make Valid Parentheses ★★) -XJ
-      7. LeetCode 32 (Longest Valid Parentheses ★★★) -JZ 
+      1. LeetCode 1544 (Make The String Great ★) -XJ
+      2. LeetCode 71 (Simplify Path ★★) -JZ
+      3. LeetCode 1441 (Build an Array With Stack Operations ★★) -XJ
+      4. LeetCode 946 (Validate Stack Sequences ★★) -JZ
+      5. LeetCode 20 (Valid Parentheses ★) -XJ
+      6. LeetCode 1249 (Minimum Remove to Make Valid Parentheses ★★) -JZ
+      7. LeetCode 32 (Longest Valid Parentheses ★★★) -XJ
    3. **Monotonic Stack Applications**  
-      1. LeetCode 503 (Next Greater Element II ★★) -XJ
-      2. LeetCode 496 (Next Greater Element I ★) -JZ
-      3. LeetCode 739 (Daily Temperatures ★★) -XJ
-      4. LeetCode 316 (Remove Duplicate Letters ★★) -JZ
-      5. LeetCode 84 (Largest Rectangle in Histogram ★★★) -XJ
-      6. LeetCode 42 (Trapping Rain Water ★★★) -JZ
+      1. LeetCode 503 (Next Greater Element II ★★) -JZ
+      2. LeetCode 496 (Next Greater Element I ★) -XJ
+      3. LeetCode 739 (Daily Temperatures ★★) -JZ
+      4. LeetCode 316 (Remove Duplicate Letters ★★) -XJ
+      5. LeetCode 84 (Largest Rectangle in Histogram ★★★) -JZ
+      6. LeetCode 42 (Trapping Rain Water ★★★) -XJ
    4. **Practice**
       1. LeetCode 85 (Maximal Rectangle ★★★) -JZ
       2. LeetCode 150 (Evaluate Reverse Polish Notation ★★) -XJ
