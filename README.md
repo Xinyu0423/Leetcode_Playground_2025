@@ -31,7 +31,7 @@
       11. LeetCode 373 (Find K Pairs with Smallest Sums ★★)  -JZ
    3. **Practice**
       1. LeetCode 66 (Plus One ★) -JZ
-      2. ~~LeetCode 280 (Wiggle Sort ★★) -XJ~~(Premium question skip this one)~~
+      2. ~~LeetCode 280 (Wiggle Sort ★★) -XJ(Premium question skip this one)~~
       3. ~~LeetCode 360 (Sort Transformed Array ★★) -JZ(Premium question skip this one)~~
       4. LeetCode 905 (Sort Array By Parity ★) -XJ
       5. LeetCode 986 (Interval List Intersections ★★) -JZ
@@ -84,14 +84,48 @@
 
 3. **Stacks**  
    1. **Extended Stack Designs**  
-      1. LeetCode 155 (Min Stack ★)  
-      2. LeetCode 716 (Max Stack ★★★)  
+      1. LeetCode 1381 (Design a Stack With Increment Operation ★★) -XJ
+      2. LeetCode 155 (Min Stack ★★) -JZ
+      3. LeetCode 716 (Max Stack ★★) -XJ
    2. **Stack Applications**  
-      1. LeetCode 20 (Valid Parentheses ★)  
-      2. LeetCode 32 (Longest Valid Parentheses ★★★)  
+      1. LeetCode 1544 (Make The String Great ★) -JZ
+      2. LeetCode 71 (Simplify Path ★★) -XJ
+      3. LeetCode 1441 (Build an Array With Stack Operations ★★) -JZ
+      4. LeetCode 946 (Validate Stack Sequences ★★) -XJ
+      5. LeetCode 20 (Valid Parentheses ★) -JZ
+      6. LeetCode 1249 (Minimum Remove to Make Valid Parentheses ★★) -XJ
+      7. LeetCode 32 (Longest Valid Parentheses ★★★) -JZ 
    3. **Monotonic Stack Applications**  
-      1. LeetCode 503 (Next Greater Element II ★★)  
-      2. LeetCode 42 (Trapping Rain Water ★★★)  
+      1. LeetCode 503 (Next Greater Element II ★★) -XJ
+      2. LeetCode 496 (Next Greater Element I ★) -JZ
+      3. LeetCode 739 (Daily Temperatures ★★) -XJ
+      4. LeetCode 316 (Remove Duplicate Letters ★★) -JZ
+      5. LeetCode 84 (Largest Rectangle in Histogram ★★★) -XJ
+      6. LeetCode 42 (Trapping Rain Water ★★★) -JZ
+   4. **Practice**
+      1. LeetCode 85 (Maximal Rectangle ★★★) -JZ
+      2. LeetCode 150 (Evaluate Reverse Polish Notation ★★) -XJ
+      3. LeetCode 224 (Basic Calculator ★★★) -JZ
+      4. LeetCode 227 (Basic Calculator II ★★) -XJ
+      5. LeetCode 402 (Remove K Digits ★★) -JZ
+      6. LeetCode 456 (132 Pattern ★★) -XJ
+      7. LeetCode 678 (Valid Parenthesis String ★★) -JZ
+      8. LeetCode 735 (Asteroid Collision ★★) -XJ
+      9. LeetCode 856 (Score of Parentheses ★★) -JZ
+      10. LeetCode 921 (Minimum Add to Make Parentheses Valid ★★) -XJ
+      11. LeetCode 1019 (Next Greater Node In Linked List ★★) -JZ
+      12. LeetCode 1172 (Dinner Plate Stacks ★★★) -XJ
+      13. LeetCode 1190 (Reverse Substrings Between Each Pair of Parentheses ★★) -JZ
+      14. LeetCode 1209 (Remove All Adjacent Duplicates in String II ★★) -XJ
+      15. LeetCode 1472 (Design Browser History ★★) -JZ
+      16. LeetCode 1504 (Count Submatrices With All Ones ★★) -XJ
+      17. LeetCode 1598 (Crawler Log Folder ★) -JZ
+      18. LeetCode 1653 (Minimum Deletions to Make String Balanced ★★) -XJ
+      19. LeetCode 1717 (Maximum Score From Removing Substrings ★★) -JZ
+      20. LeetCode 2296 (Design a Text Editor ★★★) -XJ
+      21. LeetCode 2390 (Removing Stars From a String ★★) -JZ
+      22. LeetCode 2434 (Using a Robot to Print the Lexicographically Smallest String ★★) -XJ
+      23. LeetCode 2345 (Finding the Number of Visible Mountains ★★) -JZ
 
 4. **Queues and Deques**  
    1. **Extended Queue Designs**  
