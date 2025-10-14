@@ -86,7 +86,7 @@
    1. **Extended Stack Designs**  
       1. LeetCode 1381 (Design a Stack With Increment Operation ★★) -JZ
       2. LeetCode 155 (Min Stack ★★) -XJ
-      3. LeetCode 716 (Max Stack ★★) -JZ
+      3. ~~LeetCode 716 (Max Stack ★★) -JZ~~
    2. **Stack Applications**  
       1. LeetCode 1544 (Make The String Great ★) -XJ
       2. LeetCode 71 (Simplify Path ★★) -JZ
