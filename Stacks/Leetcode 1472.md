@@ -50,3 +50,53 @@ class BrowserHistory(object):
 # param_2 = obj.back(steps)
 # param_3 = obj.forward(steps)
 ```
+
+
+
+# Solution 2
+```python
+class BrowserHistory:
+
+    def __init__(self, homepage: str):
+        self.homepage = homepage
+        self.stack = [homepage]
+        self.homepage_ind = 0
+        
+
+    def visit(self, url: str) -> None:
+        while self.stack and self.stack[-1] != self.homepage:
+            self.stack.pop()
+        self.stack.append(url)
+        self.homepage = url
+        self.homepage_ind = len(self.stack) - 1
+        
+
+    def back(self, steps: int) -> str:
+        if steps >= self.homepage_ind:
+            self.homepage = self.stack[0]
+            self.homepage_ind = 0
+            return self.stack[0]
+        else:
+            self.homepage_ind = self.homepage_ind - steps
+            self.homepage = self.stack[self.homepage_ind]
+            return self.homepage
+            
+
+    def forward(self, steps: int) -> str:
+        if steps >= len(self.stack) - 1 - self.homepage_ind:
+            self.homepage = self.stack[-1]
+            self.homepage_ind = len(self.stack) - 1
+            return self.homepage
+        else:
+            self.homepage_ind =  steps + self.homepage_ind
+            self.homepage = self.stack[self.homepage_ind]
+            return self.homepage
+        
+
+
+# Your BrowserHistory object will be instantiated and called as such:
+# obj = BrowserHistory(homepage)
+# obj.visit(url)
+# param_2 = obj.back(steps)
+# param_3 = obj.forward(steps)
+```
