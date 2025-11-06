@@ -125,7 +125,7 @@
       20. LeetCode 2296 (Design a Text Editor ★★★) -XJ
       21. LeetCode 2390 (Removing Stars From a String ★★) -JZ
       22. LeetCode 2434 (Using a Robot to Print the Lexicographically Smallest String ★★) -XJ
-      23. LeetCode 2345 (Finding the Number of Visible Mountains ★★) -JZ
+      23. ~~LeetCode 2345 (Finding the Number of Visible Mountains ★★) -JZ(Premium question skip this one)~~ 
 
 4. **Queues and Deques**  
    1. **Extended Queue Designs**  
@@ -146,16 +146,60 @@
       1. LeetCode 1 (Two Sum ★)  
       2. LeetCode 49 (Group Anagrams ★★)  
 
-6. **Binary Trees**  
-   1. **Preorder/Inorder/Postorder Traversal**  
-      1. LeetCode 144 (Preorder ★)  
-      2. LeetCode 94 (Inorder ★)  
-      3. LeetCode 543 (Diameter ★)  
-   2. **Level Order Traversal**  
-      1. LeetCode 102 (Binary Tree Level Order Traversal ★★)  
-      2. LeetCode 199 (Right Side View ★★)  
+### Chapter 6: Binary Trees  
+1. **Algorithm Design for Preorder, Inorder and Postorder Traversal Applications**  
+   1. LeetCode 144 (Binary Tree Preorder Traversal ★) -XJ  
+   2. LeetCode 94 (Binary Tree Inorder Traversal ★) -JZ  
+   3. LeetCode 145 (Binary Tree Postorder Traversal ★) -XJ  
+   4. LeetCode 965 (Univalued Binary Tree ★) -JZ  
+   5. LeetCode 100 (Same Tree ★) -XJ  
+   6. LeetCode 572 (Subtree of Another Tree ★) -JZ  
+   7. LeetCode 543 (Diameter of Binary Tree ★) -XJ  
+   8. LeetCode 563 (Binary Tree Tilt ★) -JZ  
+   9. LeetCode 2331 (Evaluate Boolean Binary Tree ★) -XJ  
+   10. LeetCode 199 (Binary Tree Right Side View ★★) -JZ  
+   11. LeetCode 662 (Maximum Width of Binary Tree ★★) -XJ  
 
----
+2. **Algorithm Design for Level Order Traversal Applications**  
+   1. LeetCode 102 (Binary Tree Level Order Traversal ★★) -JZ  
+   2. LeetCode 199 (Binary Tree Right Side View ★★) -XJ  
+   3. LeetCode 637 (Average of Levels in Binary Tree ★) -JZ  
+   4. LeetCode 2471 (Minimum Number of Operations to Sort a Binary Tree by Level ★★) -XJ  
+   5. LeetCode 2415 (Reverse Odd Levels of Binary Tree ★★) -JZ  
+   6. LeetCode 1602 (Find Nearest Right Node in Binary Tree ★★) -XJ  
+
+3. **Algorithm Design for Binary Tree Construction**  
+   1. LeetCode 105 (Construct Binary Tree from Preorder and Inorder Traversal ★★) -JZ  
+   2. LeetCode 106 (Construct Binary Tree from Inorder and Postorder Traversal ★★) -XJ  
+   3. LeetCode 2196 (Create Binary Tree From Descriptions ★★) -JZ  
+
+4. **Algorithm Design for Binary Tree Serialization**  
+   1. LeetCode 297 (Serialize and Deserialize Binary Tree ★★★) -XJ  
+   2. LeetCode 100 (Same Tree ★) -JZ  
+   3. LeetCode 572 (Subtree of Another Tree ★) -XJ  
+
+5. **Practice**  
+   1. LeetCode 101 (Symmetric Tree ★) -JZ  
+   2. LeetCode 103 (Binary Tree Zigzag Level Order Traversal ★★) -XJ  
+   3. LeetCode 104 (Maximum Depth of Binary Tree ★) -JZ  
+   4. LeetCode 107 (Binary Tree Level Order Traversal II ★★) -XJ  
+   5. LeetCode 111 (Minimum Depth of Binary Tree ★) -JZ  
+   6. LeetCode 116 (Populating Next Right Pointers in Each Node ★★) -XJ  
+   7. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) -JZ  
+   8. LeetCode 250 (Count Univalue Subtrees ★★) -XJ  
+   9. LeetCode 515 (Find Largest Value in Each Tree Row ★★) -JZ  
+   10. LeetCode 617 (Merge Two Binary Trees ★) -XJ  
+   11. LeetCode 652 (Find Duplicate Subtrees ★★) -JZ  
+   12. LeetCode 687 (Longest Univalue Path ★★) -XJ  
+   13. LeetCode 872 (Leaf-Similar Trees ★) -JZ  
+   14. LeetCode 889 (Construct Binary Tree from Preorder and Postorder Traversal ★★) -XJ  
+   15. LeetCode 919 (Complete Binary Tree Inserter ★★) -JZ  
+   16. LeetCode 958 (Check Completeness of a Binary Tree ★★) -XJ  
+   17. LeetCode 993 (Cousins in Binary Tree ★) -JZ  
+   18. LeetCode 1302 (Deepest Leaves Sum ★★) -XJ  
+   19. LeetCode 1448 (Count Good Nodes in Binary Tree ★★) -JZ  
+   20. LeetCode 1485 (Clone Binary Tree With Random Pointer ★★) -XJ  
+   21. LeetCode 1609 (Even Odd Tree ★★) -JZ
 
 ### Part II: **Algorithmic Strategies and Their Applications**  
 7. **Exhaustive Search (Brute Force)**  
