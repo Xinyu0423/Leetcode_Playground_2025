@@ -44,3 +44,63 @@ class Solution(object):
                 res += height[i] * (i - left[i]) * (right[i] - i)
         return res
 ```
+
+# Solution 2
+```python
+class Solution:
+    def countOneDArraySubmatrices(self, vec):
+        count = 0
+        total = 0
+        for val in vec:
+            if val == 0:
+                count = 0
+            else:
+                count += 1
+            total += count 
+        return total
+
+    
+    def numSubmat(self, mat: List[List[int]]) -> int:
+        m, n = len(mat), len(mat[0])
+        result = 0
+        for start_row in range(m):
+            vec = [1] * n
+            for end_row in range(start_row, m):
+                for col in range(n):
+                    vec[col] = vec[col] & mat[end_row][col]
+                result += self.countOneDArraySubmatrices(vec)
+        return result
+```
+
+# Solution 3
+```python
+class Solution:
+    def numSubmat(self, mat: List[List[int]]) -> int:
+        m, n = len(mat), len(mat[0])
+        result = 0
+        h = [0] * n
+
+        for i in range(m):
+            for j in range(n):
+                if mat[i][j] == 0:
+                    h[j] = 0
+                else:
+                    h[j] += 1
+
+            stack = []
+            count = [0] * n
+            for j in range(n):
+                # monotonic stack
+                while stack and h[stack[-1]] > h[j]:
+                    stack.pop()
+                if stack:
+                    w = j - stack[-1]
+                    count[j] = h[j] * w + count[stack[-1]]
+                else:
+                    w = j + 1
+                    count[j] = h[j] * w
+                stack.append(j)
+                # accumulate count to result
+                result += count[j]
+        return result
+```
