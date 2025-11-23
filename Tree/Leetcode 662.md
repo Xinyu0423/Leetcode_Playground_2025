@@ -37,3 +37,35 @@ class Solution(object):
         self.preorder(root.left, 2 * number + 1, height + 1)
         self.preorder(root.right, 2 * number + 2, height + 1)
 ```
+
+# Solution 2 (Optimizaiton of Solution 1)
+```python
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
+        if root is None:
+            return 0
+        self.first = []
+        self.last = []
+        self.max_width = 0
+        self.preorder(root, 0 , 0)
+        return self.max_width + 1
+        
+    def preorder(self, root, number, height):
+        if root is None:
+            return None
+        if len(self.first) == height:
+            self.first.append(number)
+        if len(self.last) == height:
+            self.last.append(number)
+        else:
+            self.last[height] = number
+        self.max_width = max(self.max_width, self.last[height] - self.first[height])
+        self.preorder(root.left, 2 * number + 1, height + 1)
+        self.preorder(root.right, 2 * number + 2, height + 1)
+```
