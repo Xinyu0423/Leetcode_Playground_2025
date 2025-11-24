@@ -186,7 +186,7 @@
    5. LeetCode 111 (Minimum Depth of Binary Tree ★) -JZ  
    6. LeetCode 116 (Populating Next Right Pointers in Each Node ★★) -XJ  
    7. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) -JZ  
-   8. LeetCode 250 (Count Univalue Subtrees ★★) -XJ  
+   8. ~~LeetCode 250 (Count Univalue Subtrees ★★) -XJ(Premium question skip this one)~~  
    9. LeetCode 515 (Find Largest Value in Each Tree Row ★★) -JZ  
    10. LeetCode 617 (Merge Two Binary Trees ★) -XJ  
    11. LeetCode 652 (Find Duplicate Subtrees ★★) -JZ  
