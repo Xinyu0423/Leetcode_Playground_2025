@@ -166,7 +166,7 @@
    3. LeetCode 637 (Average of Levels in Binary Tree ★) -JZ  
    4. LeetCode 2471 (Minimum Number of Operations to Sort a Binary Tree by Level ★★) -XJ  
    5. LeetCode 2415 (Reverse Odd Levels of Binary Tree ★★) -JZ  
-   6. LeetCode 1602 (Find Nearest Right Node in Binary Tree ★★) -XJ  
+   6. ~~LeetCode 1602 (Find Nearest Right Node in Binary Tree ★★) -XJ(Premium question please skip)~~
 
 3. **Algorithm Design for Binary Tree Construction**  
    1. LeetCode 105 (Construct Binary Tree from Preorder and Inorder Traversal ★★) -JZ  
@@ -186,7 +186,7 @@
    5. LeetCode 111 (Minimum Depth of Binary Tree ★) -JZ  
    6. LeetCode 116 (Populating Next Right Pointers in Each Node ★★) -XJ  
    7. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) -JZ  
-   8. LeetCode 250 (Count Univalue Subtrees ★★) -XJ  
+   8. ~~LeetCode 250 (Count Univalue Subtrees ★★) -XJ(Premium question skip this one)~~  
    9. LeetCode 515 (Find Largest Value in Each Tree Row ★★) -JZ  
    10. LeetCode 617 (Merge Two Binary Trees ★) -XJ  
    11. LeetCode 652 (Find Duplicate Subtrees ★★) -JZ  
