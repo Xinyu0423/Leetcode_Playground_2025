@@ -198,7 +198,7 @@
    17. LeetCode 993 (Cousins in Binary Tree ★) -JZ  
    18. LeetCode 1302 (Deepest Leaves Sum ★★) -XJ  
    19. LeetCode 1448 (Count Good Nodes in Binary Tree ★★) -JZ  
-   20. LeetCode 1485 (Clone Binary Tree With Random Pointer ★★) -XJ  
+   20. ~~LeetCode 1485 (Clone Binary Tree With Random Pointer ★★) -XJ(Premium question skip this one)~~  
    21. LeetCode 1609 (Even Odd Tree ★★) -JZ
 
 ### Part II: **Algorithmic Strategies and Their Applications**  
