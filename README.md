@@ -248,6 +248,52 @@
         1. LeetCode 51 (N-Queens ★★★)  
         2. LeetCode 37 (Sudoku Solver ★★★)  
 
+18. **DFS, BFS and Topological Sort**  
+    1. **DFS Application Algorithm Design**  
+       1. LeetCode 200 (Number of Islands ★★) -XJ  
+       2. LeetCode 463 (Island Perimeter ★) -JZ  
+       3. LeetCode 130 (Surrounded Regions ★★) -XJ  
+       4. LeetCode 529 (Minesweeper ★★) -JZ  
+       5. LeetCode 365 (Water and Jug Problem ★★★) -XJ  
+       6. LeetCode 332 (Reconstruct Itinerary ★★) -JZ  
+    2. **BFS Application Algorithm Design**  
+       1. LeetCode 200 (Number of Islands ★★) -XJ  
+       2. LeetCode 130 (Surrounded Regions ★★) -JZ  
+       3. LeetCode 529 (Minesweeper ★★) -XJ  
+       4. LeetCode 365 (Water and Jug Problem ★★★) -JZ  
+       5. LeetCode 1162 (As Far from Land as Possible ★★) -XJ  
+       6. LeetCode 847 (Shortest Path Visiting All Nodes ★★★) -JZ  
+       7. LeetCode 2608 (Shortest Cycle in a Graph ★★★) -XJ  
+       8. LeetCode 2204 (Distance to a Cycle in Undirected Graph ★★★) -JZ  
+       9. LeetCode 127 (Word Ladder ★★★) -XJ  
+       10. LeetCode 934 (Shortest Bridge ★★) -JZ  
+    3. **Topological Sort Application Algorithm Design**  
+       1. LeetCode 1462 (Course Schedule IV ★★) -XJ  
+       2. LeetCode 802 (Find Eventual Safe States ★★) -JZ  
+       3. LeetCode 269 (Alien Dictionary ★★★) -XJ  
+    4. **Practice**  
+       1. LeetCode 126 (Word Ladder II ★★★) -XJ  
+       2. LeetCode 207 (Course Schedule ★★) -JZ  
+       3. LeetCode 210 (Course Schedule II ★★) -XJ  
+       4. LeetCode 286 (Walls and Gates ★★) -JZ  
+       5. LeetCode 323 (Number of Connected Components in an Undirected Graph ★★) -XJ  
+       6. LeetCode 329 (Longest Increasing Path in a Matrix ★★★) -JZ  
+       7. LeetCode 385 (Mini Parser ★★) -XJ  
+       8. LeetCode 417 (Pacific Atlantic Water Flow ★★) -JZ  
+       9. LeetCode 542 (01 Matrix ★★) -XJ  
+       10. LeetCode 695 (Max Area of Island ★★) -JZ  
+       11. LeetCode 785 (Is Graph Bipartite? ★★) -XJ  
+       12. LeetCode 815 (Bus Routes ★★★) -JZ  
+       13. LeetCode 864 (Shortest Path to Get All Keys ★★★) -XJ  
+       14. LeetCode 913 (Cat and Mouse ★★★) -JZ  
+       15. LeetCode 994 (Rotting Oranges ★★) -XJ  
+       16. LeetCode 1091 (Shortest Path in Binary Matrix ★★) -JZ  
+       17. LeetCode 1136 (Parallel Courses ★★) -XJ  
+       18. LeetCode 1236 (Web Crawler ★★) -JZ  
+       19. LeetCode 1263 (Minimum Moves to Move a Box to Their Target Location ★★★) -XJ  
+       20. LeetCode 1730 (Shortest Path to Get Food ★★) -JZ  
+       21. LeetCode 1778 (Shortest Path in a Hidden Grid ★★) -XJ
+       
 21. **Dynamic Programming**  
     1. **Coordinate DP**  
        1. LeetCode 62 (Unique Paths ★★) -JZ  
