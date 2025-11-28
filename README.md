@@ -247,3 +247,95 @@
      2. **Permutation Tree Backtracking**  
         1. LeetCode 51 (N-Queens ★★★)  
         2. LeetCode 37 (Sudoku Solver ★★★)  
+
+21. **Dynamic Programming**  
+   1. **Coordinate DP**  
+      1. LeetCode 62 (Unique Paths ★★) -JZ  
+      2. LeetCode 63 (Unique Paths II ★★) -XJ  
+      3. LeetCode 64 (Minimum Path Sum ★★) -JZ  
+      4. LeetCode 1289 (Minimum Falling Path Sum II ★★★) -XJ  
+      5. LeetCode 329 (Longest Increasing Path in a Matrix ★★★) -JZ  
+      6. LeetCode 174 (Dungeon Game ★★★) -XJ  
+   2. **Sequence DP**  
+      1. LeetCode 300 (Longest Increasing Subsequence ★★) -JZ  
+      2. LeetCode 674 (Longest Continuous Increasing Subsequence ★) -XJ  
+      3. LeetCode 2393 (Count Strictly Increasing Subarrays ★★) -JZ  
+      4. LeetCode 491 (Non-decreasing Subsequences ★★) -XJ  
+      5. LeetCode 646 (Maximum Length of Pair Chain ★★) -JZ  
+      6. LeetCode 1092 (Shortest Common Supersequence ★★★) -XJ  
+      7. LeetCode 2008 (Maximum Earnings From Taxi ★★) -JZ  
+      8. LeetCode 718 (Maximum Length of Repeated Subarray ★★) -XJ  
+      9. LeetCode 1143 (Longest Common Subsequence ★★) -JZ  
+      10. LeetCode 392 (Is Subsequence ★) -XJ  
+      11. LeetCode 115 (Distinct Subsequences ★★) -JZ  
+      12. LeetCode 1537 (Get the Maximum Score ★★★) -XJ  
+      13. LeetCode 2361 (Minimum Costs Using the Train Line ★★) -JZ  
+      14. LeetCode 956 (Tallest Billboard ★★★) -XJ  
+   3. **Partition DP**  
+      1. LeetCode 639 (Decode Ways II ★★★) -JZ  
+      2. LeetCode 279 (Perfect Squares ★★) -XJ  
+      3. LeetCode 343 (Integer Break ★★) -JZ  
+   4. **Matching DP**  
+      1. LeetCode 140 (Word Break II ★★) -JZ  
+      2. LeetCode 32 (Longest Valid Parentheses ★★★) -XJ  
+      3. LeetCode 44 (Wildcard Matching ★★★) -JZ  
+      4. LeetCode 10 (Regular Expression Matching ★★★) -XJ  
+   5. **Knapsack DP**  
+      1. LeetCode 416 (Partition Equal Subset Sum ★★) -JZ  
+      2. LeetCode 494 (Target Sum ★★) -XJ  
+      3. LeetCode 474 (Ones and Zeroes ★★) -JZ  
+      4. LeetCode 879 (Profitable Schemes ★★★) -XJ  
+      5. LeetCode 871 (Minimum Number of Refueling Stops ★★★) -JZ  
+      6. LeetCode 322 (Coin Change ★★) -XJ  
+      7. LeetCode 518 (Coin Change II ★★) -JZ  
+      8. LeetCode 377 (Combination Sum IV ★★) -XJ  
+   6. **Tree DP**  
+      1. LeetCode 834 (Sum of Distances in Tree ★★★) -JZ  
+      2. LeetCode 124 (Binary Tree Maximum Path Sum ★★★) -XJ  
+      3. LeetCode 337 (House Robber III ★★) -JZ  
+   7. **Interval DP**  
+      1. LeetCode 516 (Longest Palindromic Subsequence ★★) -JZ  
+      2. LeetCode 664 (Strange Printer ★★★) -XJ  
+      3. LeetCode 375 (Guess Number Higher or Lower II ★★) -JZ  
+      4. LeetCode 312 (Burst Balloons ★★★) -XJ  
+      5. LeetCode 1000 (Minimum Cost to Merge Stones ★★★) -JZ  
+   8. **Floyd Algorithm and Applications**  
+      1. LeetCode 1462 (Course Schedule IV ★★) -JZ  
+      2. LeetCode 2608 (Shortest Cycle in a Graph ★★★) -XJ  
+      3. LeetCode 847 (Shortest Path Visiting All Nodes ★★★) -JZ  
+   9. **Practice**  
+      1. LeetCode 5 (Longest Palindromic Substring ★★) -JZ  
+      2. LeetCode 72 (Edit Distance ★★) -XJ  
+      3. LeetCode 87 (Scramble String ★★★) -JZ  
+      4. LeetCode 122 (Best Time to Buy and Sell Stock II ★) -XJ  
+      5. LeetCode 123 (Best Time to Buy and Sell Stock III ★★★) -JZ  
+      6. LeetCode 132 (Palindrome Partitioning II ★★★) -XJ  
+      7. LeetCode 127 (Word Ladder ★★★) -JZ  
+      8. LeetCode 198 (House Robber ★) -XJ  
+      9. LeetCode 213 (House Robber II ★★) -JZ  
+      10. LeetCode 241 (Different Ways to Add Parentheses ★★) -XJ  
+      11. LeetCode 265 (Paint House II ★★★) -JZ  
+      12. LeetCode 310 (Minimum Height Trees ★★) -XJ  
+      13. LeetCode 368 (Largest Divisible Subset ★★) -JZ  
+      14. LeetCode 399 (Evaluate Division ★★) -XJ  
+      15. LeetCode 410 (Split Array Largest Sum ★★★) -JZ  
+      16. LeetCode 583 (Delete Operation for Two Strings ★★) -XJ  
+      17. LeetCode 647 (Palindromic Substrings ★★) -JZ  
+      18. LeetCode 678 (Valid Parenthesis String ★★) -XJ  
+      19. LeetCode 687 (Longest Univalue Path ★★) -JZ  
+      20. LeetCode 740 (Delete and Earn ★★) -XJ  
+      21. LeetCode 787 (Cheapest Flights Within K Stops ★★) -JZ  
+      22. LeetCode 792 (Number of Matching Subsequences ★★) -XJ  
+      23. LeetCode 823 (Binary Trees With Factors ★★) -JZ  
+      24. LeetCode 968 (Binary Tree Cameras ★★★) -XJ  
+      25. LeetCode 983 (Minimum Cost For Tickets ★★) -JZ  
+      26. LeetCode 1048 (Longest String Chain ★★) -XJ  
+      27. LeetCode 1125 (Smallest Sufficient Team ★★★) -JZ  
+      28. LeetCode 1130 (Minimum Cost Tree From Leaf Values ★★) -XJ  
+      29. LeetCode 1187 (Make Array Strictly Increasing ★★★) -JZ  
+      30. LeetCode 1334 (Find the City With the Smallest Number of Neighbors at a Threshold Distance ★★) -XJ  
+      31. LeetCode 1575 (Count All Possible Routes ★★★) -JZ  
+      32. LeetCode 2246 (Longest Path With Different Adjacent Characters ★★★) -XJ  
+      33. LeetCode 2304 (Minimum Path Cost in a Grid ★★) -JZ  
+      34. LeetCode 2830 (Maximize the Profit as the Salesman ★★) -XJ  
+      35. LeetCode 2858 (Minimum Edge Reversals So Every Node Is Reachable ★★★) -JZ
