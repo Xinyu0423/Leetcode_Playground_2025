@@ -71,3 +71,15 @@ def dfs(root):
 - 需要从叶子节点开始计算
 - 通常需要返回某些信息给父节点
 - Leetcode: 543, 563, 104
+
+## Return类型
+- 找节点 → return 节点
+- 判真假 → return bool
+- 算高度 → return 数
+  - return max(left, right)？
+    - 你要返回一个沿树往上累积的数值（如高度、深度、路径长度）
+      - 高度/深度Leetcode: 104, 111
+      - 最长路径Leetcode: 543, 124
+    - 左右子树各自能给你一个“数值”（不能是bool 或节点）
+- 要路径 → return list
+- 只遍历 → return None
