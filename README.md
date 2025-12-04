@@ -305,7 +305,7 @@
     2. **Sequence DP**  
        1. LeetCode 300 (Longest Increasing Subsequence ★★) -JZ  
        2. LeetCode 674 (Longest Continuous Increasing Subsequence ★) -XJ  
-       3. LeetCode 2393 (Count Strictly Increasing Subarrays ★★) -JZ  
+       3. ~~LeetCode 2393 (Count Strictly Increasing Subarrays ★★) -JZ(Premium question skip this one)~~  
        4. LeetCode 491 (Non-decreasing Subsequences ★★) -XJ  
        5. LeetCode 646 (Maximum Length of Pair Chain ★★) -JZ  
        6. LeetCode 1092 (Shortest Common Supersequence ★★★) -XJ  
