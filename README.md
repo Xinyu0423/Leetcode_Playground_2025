@@ -293,7 +293,7 @@
        19. LeetCode 1263 (Minimum Moves to Move a Box to Their Target Location ★★★) -XJ  
        20. LeetCode 1730 (Shortest Path to Get Food ★★) -JZ  
        21. LeetCode 1778 (Shortest Path in a Hidden Grid ★★) -XJ
-       
+
 21. **Dynamic Programming**  
     1. **Coordinate DP**  
        1. LeetCode 62 (Unique Paths ★★) -JZ  
@@ -308,7 +308,7 @@
        3. ~~LeetCode 2393 (Count Strictly Increasing Subarrays ★★) -JZ(Premium question skip this one)~~  
        4. LeetCode 491 (Non-decreasing Subsequences ★★) -XJ  
        5. LeetCode 646 (Maximum Length of Pair Chain ★★) -JZ  
-       6. LeetCode 1092 (Shortest Common Supersequence ★★★) -XJ  
+       6. ~~LeetCode 1062 (Longest Repeating Substrin ★★) -XJ (Premium question skip this one)~~  
        7. LeetCode 2008 (Maximum Earnings From Taxi ★★) -JZ  
        8. LeetCode 718 (Maximum Length of Repeated Subarray ★★) -XJ  
        9. LeetCode 1143 (Longest Common Subsequence ★★) -JZ  
