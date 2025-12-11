@@ -315,7 +315,7 @@
        10. LeetCode 392 (Is Subsequence ★) -XJ  
        11. LeetCode 115 (Distinct Subsequences ★★) -JZ  
        12. LeetCode 1537 (Get the Maximum Score ★★★) -XJ  
-       13. LeetCode 2361 (Minimum Costs Using the Train Line ★★) -JZ  
+       13. ~~LeetCode 2361 (Minimum Costs Using the Train Line ★★) -JZ (Premium question skip this one)~~   
        14. LeetCode 956 (Tallest Billboard ★★★) -XJ  
     3. **Partition DP**  
        1. LeetCode 639 (Decode Ways II ★★★) -JZ  
