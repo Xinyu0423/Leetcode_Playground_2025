@@ -107,3 +107,21 @@
 | 状态转移方程（一维dp） | `dp[j] = max(dp[j], dp[j - w[i]] + v[i])` (逆序处理 j)                 | `dp[j] = max(dp[j], dp[j - w[i]] + v[i])` (正序处理 j)                 |
 | 物理意义       | 逆序保证了 `dp[j - w[i]]` 是旧状态，防止被重复迭代                       | 正序利用了 `dp[j - w[i]]` 是新状态，允许重复迭代                        |
 
+## Floyd算法
+- Floyd算法也被称为多源最短路径算法，用于求图中所有的两个顶点之间的最短路径，核心思想为dp
+- 假设带权图G用邻接表(邻接矩阵)A存储，设计一个三维`dp[k][i][j]`表示从顶点i到j中间顶点不大于k的最短路径长度，`dp[k - 1][i][j]= A[i][j]`,即不考虑任何顶点为中间顶点时，i到j的最短路径就是`A[i][j]`
+- 如果考虑顶点k，两条路的最短路径为
+  - `dp[k][i][j] = min(dp[k - 1][i][j], dp[k - 1][i][k] + dp[k - 1][k][j]) for 0 <= k <= n - 1`
+- 从以上状态转移方程可以推导出
+  - `dp[k][i][k] = min(dp[k - 1][i][k], dp[k - 1][i][k] + dp[k - 1][k][k]) `
+  - `dp[k][k][j] = min(dp[k - 1][k][j], dp[k - 1][k][k] + dp[k - 1][k][j]) `
+- 从以上推导的公式可以看出，`dp[k][i][j]`只与`p[k - 1][i][k],dp[k - 1][k][j],dp[k - 1][i][j]`有关，而`dp[k][i][k]和dp[k][k][j]`分别等于前一个阶段`dp[k - 1][i][k]和dp[k - 1][k][j]`的结果
+- 因此`dp[k][i][k]和dp[k][k][j]`可以降维为`dp[i][k]和dp[k][j]`
+```Python
+# Floyd算法
+for k in range(n):
+  # 重要 最外层循环从k开始
+  for i in range(n):
+    for j in range(n):
+      A[i][j] = min(A[i][j], A[i][k] + A[k][j])
+```

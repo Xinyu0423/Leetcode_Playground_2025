@@ -347,7 +347,7 @@
        5. LeetCode 1000 (Minimum Cost to Merge Stones ★★★) -JZ  
     8. **Floyd Algorithm and Applications**  
        1. LeetCode 1462 (Course Schedule IV ★★) -JZ  
-       2. LeetCode 2608 (Shortest Cycle in a Graph ★★★) -XJ  
+       2. ~~LeetCode 2608 (Shortest Cycle in a Graph ★★★) -XJ  (Floyd Algorithm can't solve this question, please skip this one)~~
        3. LeetCode 847 (Shortest Path Visiting All Nodes ★★★) -JZ  
     9. **Practice**  
        1. LeetCode 5 (Longest Palindromic Substring ★★) -JZ  
