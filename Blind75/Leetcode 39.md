@@ -33,3 +33,24 @@ class Solution:
                 self.dfs(i, target - candidates[i], path, candidates)
                 path.pop()
 ```
+
+# Solution 3
+```Python
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        candidates.sort()
+        stack = []
+        stack.append((0, target, []))
+        res = []
+        while stack:
+            index, remaining, path = stack.pop()
+            if remaining == 0:
+                res.append(path)
+                continue
+            for i in range(index, len(candidates)):
+                if candidates[i] > remaining:
+                    break
+                new_path = path + [candidates[i]]
+                stack.append((i, remaining - candidates[i], new_path))
+        return res
+```
