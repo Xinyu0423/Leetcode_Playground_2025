@@ -428,7 +428,7 @@
     39. LeetCode 190 (Reverse Bits ★) - JZ
     40. LeetCode 191 (Number of 1 Bits ★) - XJ
     41. LeetCode 322 (Coin Change ★★) - JZ
-    42. LeetCode 323 (Number of Connected Components in an Undirected Graph ★★) - XJ
+    42. ~~LeetCode 323 (Number of Connected Components in an Undirected Graph ★★) - XJ(Premium question skip this one)~~
     43. LeetCode 70 (Climbing Stairs ★) - JZ
     44. LeetCode 198 (House Robber ★★) - XJ
     45. LeetCode 200 (Number of Islands ★★) - JZ
