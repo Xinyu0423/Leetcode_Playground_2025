@@ -445,7 +445,7 @@
     56. LeetCode 217 (Contains Duplicate ★) - XJ
     57. LeetCode 91 (Decode Ways ★★) - JZ
     58. LeetCode 347 (Top K Frequent Elements ★★) - XJ
-    59. LeetCode 253 (Meeting Rooms II ★★) - JZ
+    59. ~~LeetCode 253 (Meeting Rooms II ★★) - JZ(Premium question skip this one)~~
     60. LeetCode 98 (Validate Binary Search Tree ★★) - XJ
     61. LeetCode 226 (Invert Binary Tree ★) - JZ
     62. LeetCode 100 (Same Tree ★) - XJ
