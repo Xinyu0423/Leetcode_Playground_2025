@@ -88,3 +88,61 @@ class Solution:
                         queue.append([x, y, popped_node[board[x][y]], copied_visited])
         
 ```
+
+# Solution 3
+```python
+class Solution:
+    def __init__(self):
+        self.root = {}
+        # {"o":{"a":{"t":None, "#":"oa"}},
+
+        # "p":{},
+        # "e":{},
+        # "r":{}
+        # }
+    def addWord(self, word: str):
+        node = self.root
+        for char in word:
+            if char not in node:
+                node[char] = {}
+            node = node[char]
+        node["#"] = word
+
+    def findWords(self, board: List[List[str]], words: List[str]) -> List[str]:
+        for word in words:
+            self.addWord(word)
+        m, n = len(board), len(board[0])
+        ans = []
+        for i in range(m):
+            for j in range(n):
+                self.dfs(board, m, n, i, j, self.root, ans)
+        return ans
+
+    def dfs(self, board, m, n, i, j, node, ans):
+        char = board[i][j]
+        if char not in node:
+            return
+        parent = node
+        node = node[char]
+        
+        word = node.pop('#', None)
+        if word is not None:
+            ans.append(word)
+
+        # prune
+        board[i][j] = "$" 
+
+        if i + 1 < m and board[i + 1][j] != "$":
+            self.dfs(board, m, n, i + 1, j, node, ans)
+        if i - 1 >= 0 and board[i - 1][j] != "$":
+            self.dfs(board, m, n, i - 1, j, node, ans)
+        if j + 1 < n and board[i][j + 1] != "$":
+            self.dfs(board, m, n, i, j + 1, node, ans)
+        if j - 1 >= 0 and board[i][j - 1] != "$":
+            self.dfs(board, m, n, i, j - 1, node, ans)
+        board[i][j] = char
+
+        # prune
+        if not node:
+            parent.pop(char, None)
+```
