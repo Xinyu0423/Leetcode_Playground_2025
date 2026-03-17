@@ -458,7 +458,7 @@
     69. LeetCode 238 (Product of Array Except Self ★★) - JZ
     70. LeetCode 242 (Valid Anagram ★) - XJ
     71. LeetCode 371 (Sum of Two Integers ★★) - JZ
-    72. LeetCode 252 (Meeting Rooms ★) - XJ
+    72. ~~LeetCode 252 (Meeting Rooms ★) - XJ(Premium question skip this one)~~
     73. LeetCode 121 (Best Time to Buy and Sell Stock ★) - JZ
     74. LeetCode 124 (Binary Tree Maximum Path Sum ★★★) - XJ
     75. LeetCode 125 (Valid Palindrome ★) - JZ
