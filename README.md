@@ -462,3 +462,105 @@
     73. LeetCode 121 (Best Time to Buy and Sell Stock ★) - JZ
     74. LeetCode 124 (Binary Tree Maximum Path Sum ★★★) - XJ
     75. LeetCode 125 (Valid Palindrome ★) - JZ
+    
+23. **Hot 100**
+    1. LeetCode 160 (Intersection of Two Linked Lists ★) - JZ
+    2. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) - XJ
+    3. LeetCode 234 (Palindrome Linked List ★) - JZ
+    4. LeetCode 739 (Daily Temperatures ★★) - XJ
+    5. ~~LeetCode 226 (Invert Binary Tree ★) - JZ(Already did in Blind 75)~~
+    6. LeetCode 221 (Maximal Square ★★) - JZ
+    7. LeetCode 215 (Kth Largest Element in an Array ★★) - XJ
+    8. ~~LeetCode 208 (Implement Trie (Prefix Tree) ★★) - JZ(Already did in Blind 75)~~
+    9. ~~LeetCode 207 (Course Schedule ★★) - XJ(Already did in Blind 75)~~
+    10. ~~LeetCode 206 (Reverse Linked List ★) - XJ(Already did in Blind 75)~~
+    11. ~~LeetCode 200 (Number of Islands ★★) - JZ(Already did in Blind 75)~~
+    12. ~~LeetCode 198 (House Robber ★★) - XJ(Already did in Blind 75)~~
+    13. LeetCode 169 (Majority Element ★) - JZ
+    14. ~~LeetCode 238 (Product of Array Except Self ★★) - JZ(Already did in Blind 75)~~
+    15. LeetCode 155 (Min Stack ★★) - XJ
+    16. ~~LeetCode 152 (Maximum Product Subarray ★★) - XJ(Already did in Blind 75)~~
+    17. LeetCode 148 (Sort List ★★) - JZ
+    18. LeetCode 146 (LRU Cache ★★) - XJ
+    19. LeetCode 142 (Linked List Cycle II ★★) - JZ
+    20. ~~LeetCode 141 (Linked List Cycle ★) - XJ(Already did in Blind 75)~~
+    21. ~~LeetCode 139 (Word Break ★★) - JZ(Already did in Blind 75)~~
+    22. LeetCode 136 (Single Number ★) - XJ
+    23. ~~LeetCode 647 (Palindromic Substrings ★★) - JZ(Already did in Blind 75)~~
+    24. ~~LeetCode 128 (Longest Consecutive Sequence ★★) - XJ(Already did in Blind 75)~~
+    25. ~~LeetCode 124 (Binary Tree Maximum Path Sum ★★★) - XJ(Already did in Blind 75)~~
+    26. ~~LeetCode 322 (Coin Change ★★) - JZ(Already did in Blind 75)~~
+    27. LeetCode 494 (Target Sum ★★) - JZ
+    28. LeetCode 461 (Hamming Distance ★) - XJ
+    29. LeetCode 448 (Find All Numbers Disappeared in an Array ★) - JZ
+    30. LeetCode 438 (Find All Anagrams in a String ★★) - XJ
+    31. LeetCode 437 (Path Sum III ★★) - JZ
+    32. LeetCode 416 (Partition Equal Subset Sum ★★) - XJ
+    33. LeetCode 406 (Queue Reconstruction by Height ★★) - JZ
+    34. LeetCode 399 (Evaluate Division ★★) - XJ
+    35. LeetCode 394 (Decode String ★★) - JZ
+    36. ~~LeetCode 347 (Top K Frequent Elements ★★) - XJ(Already did in Blind 75)~~
+    37. ~~LeetCode 338 (Counting Bits ★) - XJ(Already did in Blind 75)~~
+    38. LeetCode 337 (House Robber III ★★) - XJ
+    39. ~~LeetCode 121 (Best Time to Buy and Sell Stock ★) - JZ(Already did in Blind 75)~~
+    40. LeetCode 312 (Burst Balloons ★★★) - JZ
+    41. LeetCode 309 (Best Time to Buy and Sell Stock with Cooldown ★★) - XJ
+    42. LeetCode 301 (Remove Invalid Parentheses ★★★) - JZ
+    43. ~~LeetCode 300 (Longest Increasing Subsequence ★★) - XJ(Already did in Blind 75)~~
+    44. ~~LeetCode 297 (Serialize and Deserialize Binary Tree ★★★) - XJ(Already did in Blind 75)~~
+    45. LeetCode 287 (Find the Duplicate Number ★★) - XJ
+    46. LeetCode 283 (Move Zeroes ★) - JZ
+    47. LeetCode 279 (Perfect Squares ★★) - XJ
+    48. ~~LeetCode 253 (Meeting Rooms II ★★) - JZ(Already did in Blind 75)~~
+    49. LeetCode 240 (Search a 2D Matrix II ★★) - JZ
+    50. LeetCode 239 (Sliding Window Maximum ★★★) - XJ
+    51. LeetCode 22 (Generate Parentheses ★★) - JZ
+    52. ~~LeetCode 49 (Group Anagrams ★★) - XJ(Already did in Blind 75)~~
+    53. ~~LeetCode 48 (Rotate Image ★★) - JZ(Already did in Blind 75)~~
+    54. LeetCode 46 (Permutations ★★) - XJ
+    55. LeetCode 42 (Trapping Rain Water ★★★) - JZ
+    56. ~~LeetCode 39 (Combination Sum ★★) - XJ(Already did in Blind 75)~~
+    57. LeetCode 543 (Diameter of Binary Tree ★) - XJ
+    58. LeetCode 34 (Find First and Last Position of Element in Sorted Array ★★) - JZ
+    59. ~~LeetCode 33 (Search in Rotated Sorted Array ★★) - XJ(Already did in Blind 75)~~
+    60. LeetCode 32 (Longest Valid Parentheses ★★★) - XJ
+    61. LeetCode 31 (Next Permutation ★★) - JZ
+    62. LeetCode 538 (Convert BST to Greater Tree ★★) - XJ
+    63. ~~LeetCode 23 (Merge k Sorted Lists ★★★) - JZ(Already did in Blind 75)~~
+    64. LeetCode 560 (Subarray Sum Equals K ★★) - JZ
+    65. ~~LeetCode 21 (Merge Two Sorted Lists ★) - XJ(Already did in Blind 75)~~
+    66. ~~LeetCode 20 (Valid Parentheses ★) - JZ(Already did in Blind 75)~~
+    67. ~~LeetCode 19 (Remove Nth Node From End of List ★★) - XJ(Already did in Blind 75)~~
+    68. LeetCode 17 (Letter Combinations of a Phone Number ★★) - XJ
+    69. ~~LeetCode 15 (3Sum ★★) - XJ(Already did in Blind 75)~~
+    70. ~~LeetCode 11 (Container With Most Water ★★) - XJ(Already did in Blind 75)~~
+    71. LeetCode 10 (Regular Expression Matching ★★★) - JZ
+    72. ~~LeetCode 5 (Longest Palindromic Substring ★★) - XJ(Already did in Blind 75)~~
+    73. LeetCode 4 (Median of Two Sorted Arrays ★★★) - XJ
+    74. ~~LeetCode 3 (Longest Substring Without Repeating Characters ★★) - JZ(Already did in Blind 75)~~
+    75. LeetCode 2 (Add Two Numbers ★★) - JZ
+    76. ~~LeetCode 79 (Word Search ★★) - JZ(Already did in Blind 75)~~
+    77. LeetCode 114 (Flatten Binary Tree to Linked List ★★) - XJ
+    78. LeetCode 621 (Task Scheduler ★★) - JZ
+    79. LeetCode 617 (Merge Two Binary Trees ★) - XJ
+    80. ~~LeetCode 105 (Construct Binary Tree from Preorder and Inorder Traversal ★★) - JZ(Already did in Blind 75)~~
+    81. ~~LeetCode 104 (Maximum Depth of Binary Tree ★) - XJ(Already did in Blind 75)~~
+    82. ~~LeetCode 102 (Binary Tree Level Order Traversal ★★) - XJ(Already did in Blind 75)~~
+    83. LeetCode 101 (Symmetric Tree ★) - JZ
+    84. ~~LeetCode 98 (Validate Binary Search Tree ★★) - XJ(Already did in Blind 75)~~
+    85. LeetCode 96 (Unique Binary Search Trees ★★) - XJ
+    86. LeetCode 94 (Binary Tree Inorder Traversal ★) - JZ
+    87. LeetCode 85 (Maximal Rectangle ★★★) - XJ
+    88. LeetCode 84 (Largest Rectangle in Histogram ★★★) - JZ
+    89. ~~LeetCode 1 (Two Sum ★) - JZ(Already did in Blind 75)~~
+    90. LeetCode 78 (Subsets ★★) - XJ
+    91. ~~LeetCode 76 (Minimum Window Substring ★★★) - JZ(Already did in Blind 75)~~
+    92. LeetCode 75 (Sort Colors ★★) - JZ
+    93. LeetCode 72 (Edit Distance ★★) - XJ
+    94. ~~LeetCode 70 (Climbing Stairs ★) - JZ(Already did in Blind 75)~~
+    95. LeetCode 581 (Shortest Unsorted Continuous Subarray ★★) - JZ
+    96. LeetCode 64 (Minimum Path Sum ★★) - XJ
+    97. ~~LeetCode 62 (Unique Paths ★★) - XJ(Already did in Blind 75)~~
+    98. ~~LeetCode 56 (Merge Intervals ★★) - JZ(Already did in Blind 75)~~
+    99. ~~LeetCode 55 (Jump Game ★★) - XJ(Already did in Blind 75)~~
+    100. ~~LeetCode 53 (Maximum Subarray ★★) - XJ(Already did in Blind 75)~~
