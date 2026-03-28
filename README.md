@@ -564,3 +564,49 @@
     98. ~~LeetCode 56 (Merge Intervals ★★) - JZ(Already did in Blind 75)~~
     99. ~~LeetCode 55 (Jump Game ★★) - XJ(Already did in Blind 75)~~
     100. ~~LeetCode 53 (Maximum Subarray ★★) - XJ(Already did in Blind 75)~~
+24. **Top 50 Medium**
+    1. **Array/HashMap**
+        1. LeetCode 1 (Two Sum ★) - JZ
+        2. LeetCode 49 (Group Anagrams ★★) - XJ
+        3. LeetCode 347 (Top K Frequent Elements ★★) - JZ
+        4. LeetCode 238 (Product of Array Except Self ★★) - XJ
+        5. LeetCode 128 (Longest Consecutive Sequence ★★) - JZ
+    2. **Sliding Window**
+        1. LeetCode 3 (Longest Substring Without Repeating Characters ★★) - JZ
+        2. LeetCode 424 (Longest Repeating Character Replacement ★★) - XJ
+        3. LeetCode 76 (Minimum Window Substring ★★★) - JZ
+    3. **Two Pointers**
+        1. LeetCode 15 (3Sum ★★) - JZ
+        2. LeetCode 11 (Container With Most Water ★★) - XJ
+        3. LeetCode 75 (Sort Colors ★★) - JZ
+    4. **Stack/Monotonic Stack**
+        1. LeetCode 739 (Daily Temperatures ★★) - XJ
+        2. LeetCode 150 (Evaluate Reverse Polish Notation ★★) - JZ
+        3. LeetCode 20 (Valid Parentheses ★) - XJ
+    5. **Binary Search**
+        1. LeetCode 33 (Search in Rotated Sorted Array ★★) - JZ
+        2. LeetCode 153 (Find Minimum in Rotated Sorted Array ★★) - XJ
+        3. LeetCode 74 (Search a 2D Matrix ★★) - JZ
+        4. LeetCode 875 (KoKo Eating Bananas ★★) - XJ
+    6. **Linked List**
+        1. LeetCode 2 (Add Two Numbers ★★) - JZ
+        2. LeetCode 206 (Reverse Linked List ★) - XJ
+        3. LeetCode 141 (Linked List Cycle ★) - JZ
+        4. LeetCode 143 (Reorder List ★★) - XJ
+    7. ****Tree/DFS/BFS**
+        1. LeetCode 104 (Maximum Depth of Binary Tree ★) - JZ
+        2. LeetCode 102 (Binary Tree Level Order Traversal ★★) - XJ
+        3. LeetCode 98 (Validate Binary Search Tree ★★) - JZ
+        4. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) - XJ
+        5. LeetCode 226 (Invert Binary Tree ★) - JZ
+    8. **Backtracking**
+        1. LeetCode 78 (Subsets ★★) - JZ
+        2. LeetCode 46 (Permutations ★★) - XJ
+        3. LeetCode 39 (Combination Sum ★★) - JZ
+    9. **Dynamic Programming**
+        1. LeetCode 198 (House Robber ★★) - XJ
+        2. LeetCode 322 (Coin Change ★★) - JZ
+        3. LeetCode 300 (Longest Increasing Subsequence ★★) - XJ
+    10. **Graph/BFS**
+        1. LeetCode 200 (Number of Islands ★★) - JZ
+        2. LeetCode 133 (Clone Graph ★★) - XJ
