@@ -11,7 +11,7 @@
    1. 适用：字符串匹配，编辑距离，LCS
    2. Leetcode：1143，44，10
 4. 区间合并:`dp[left][right] = f(dp[left][k], dp[k + 1][right])`
-   1. Note: 最外层循环length，中间层循环起始index i，j = i+ length，最内层循环k + 1到j + 1
+   1. Note: 最外层循环length，中间层循环起始index i，j = i+ length，最内层循环i + 1到j + 1
    2. 适用：回文，合并成本
    3. Leetcode: 312, 516, 1000, 375
 
