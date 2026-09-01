@@ -564,49 +564,94 @@
     98. ~~LeetCode 56 (Merge Intervals ★★) - JZ(Already did in Blind 75)~~
     99. ~~LeetCode 55 (Jump Game ★★) - XJ(Already did in Blind 75)~~
     100. ~~LeetCode 53 (Maximum Subarray ★★) - XJ(Already did in Blind 75)~~
-24. **Top 50 Medium**
-    1. **Array/HashMap**
+24. **Grind 75**
+    1. **Arrays**
         1. LeetCode 1 (Two Sum ★) - JZ
-        2. LeetCode 49 (Group Anagrams ★★) - XJ
-        3. LeetCode 347 (Top K Frequent Elements ★★) - JZ
-        4. LeetCode 238 (Product of Array Except Self ★★) - XJ
-        5. LeetCode 128 (Longest Consecutive Sequence ★★) - JZ
-    2. **Sliding Window**
-        1. LeetCode 3 (Longest Substring Without Repeating Characters ★★) - JZ
-        2. LeetCode 424 (Longest Repeating Character Replacement ★★) - XJ
-        3. LeetCode 76 (Minimum Window Substring ★★★) - JZ
-    3. **Two Pointers**
-        1. LeetCode 15 (3Sum ★★) - JZ
-        2. LeetCode 11 (Container With Most Water ★★) - XJ
-        3. LeetCode 75 (Sort Colors ★★) - JZ
-    4. **Stack/Monotonic Stack**
-        1. LeetCode 739 (Daily Temperatures ★★) - XJ
-        2. LeetCode 150 (Evaluate Reverse Polish Notation ★★) - JZ
-        3. LeetCode 20 (Valid Parentheses ★) - XJ
-    5. **Binary Search**
-        1. LeetCode 33 (Search in Rotated Sorted Array ★★) - JZ
-        2. LeetCode 153 (Find Minimum in Rotated Sorted Array ★★) - XJ
-        3. LeetCode 74 (Search a 2D Matrix ★★) - JZ
-        4. LeetCode 875 (KoKo Eating Bananas ★★) - XJ
-    6. **Linked List**
-        1. LeetCode 2 (Add Two Numbers ★★) - JZ
-        2. LeetCode 206 (Reverse Linked List ★) - XJ
-        3. LeetCode 141 (Linked List Cycle ★) - JZ
-        4. LeetCode 143 (Reorder List ★★) - XJ
-    7. ****Tree/DFS/BFS**
-        1. LeetCode 104 (Maximum Depth of Binary Tree ★) - JZ
-        2. LeetCode 102 (Binary Tree Level Order Traversal ★★) - XJ
-        3. LeetCode 98 (Validate Binary Search Tree ★★) - JZ
-        4. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) - XJ
-        5. LeetCode 226 (Invert Binary Tree ★) - JZ
-    8. **Backtracking**
-        1. LeetCode 78 (Subsets ★★) - JZ
-        2. LeetCode 46 (Permutations ★★) - XJ
-        3. LeetCode 39 (Combination Sum ★★) - JZ
-    9. **Dynamic Programming**
-        1. LeetCode 198 (House Robber ★★) - XJ
-        2. LeetCode 322 (Coin Change ★★) - JZ
-        3. LeetCode 300 (Longest Increasing Subsequence ★★) - XJ
-    10. **Graph/BFS**
-        1. LeetCode 200 (Number of Islands ★★) - JZ
-        2. LeetCode 133 (Clone Graph ★★) - XJ
+        2. LeetCode 121 (Best Time to Buy and Sell Stock ★) - XJ
+        3. LeetCode 169 (Majority Element ★) - JZ
+        4. LeetCode 217 (Contains Duplicate ★) - XJ
+        5. LeetCode 57 (Insert Interval ★★) - JZ
+        6. LeetCode 15 (3Sum ★★) - XJ
+        7. LeetCode 238 (Product of Array Except Self ★★) - JZ
+        8. LeetCode 39 (Combination Sum ★★) - XJ
+        9. LeetCode 56 (Merge Intervals ★★) - JZ
+        10. LeetCode 75 (Sort Colors ★★) - XJ
+        11. LeetCode 11 (Container With Most Water ★★) - JZ
+    2. **Stacks**
+        1. LeetCode 20 (Valid Parentheses ★) - XJ
+        2. LeetCode 232 (Implement Queue Using Stacks ★) - JZ
+        3. LeetCode 150 (Evaluate Reverse Polish Notation ★★) - XJ
+        4. LeetCode 155 (Min Stack ★★) - JZ
+        5. LeetCode 42 (Trapping Rain Water ★★★) - XJ
+        6. LeetCode 224 (Basic Calculator ★★★) - JZ
+        7. LeetCode 84 (Largest Rectangle in Histogram ★★★) - XJ
+    3. **Linked Lists**
+        1. LeetCode 21 (Merge Two Sorted Lists ★) - JZ
+        2. LeetCode 141 (Linked List Cycle ★) - XJ
+        3. LeetCode 206 (Reverse Linked List ★) - JZ
+        4. LeetCode 876 (Middle of the Linked List ★) - XJ
+        5. LeetCode 146 (LRU Cache ★★) - JZ
+    4. **Strings**
+        1. LeetCode 125 (Valid Palindrome ★) - XJ
+        2. LeetCode 242 (Valid Anagram ★) - JZ
+        3. LeetCode 409 (Longest Palindrome ★) - XJ
+        4. LeetCode 3 (Longest Substring Without Repeating Characters ★★) - JZ
+        5. LeetCode 8 (String to Integer (atoi) ★★) - XJ
+        6. LeetCode 5 (Longest Palindromic Substring ★★) - JZ
+        7. LeetCode 438 (Find All Anagrams in a String ★★) - XJ
+        8. LeetCode 76 (Minimum Window Substring ★★★) - JZ
+    5. **Binary Trees**
+        1. LeetCode 226 (Invert Binary Tree ★) - XJ
+        2. LeetCode 110 (Balanced Binary Tree ★) - JZ
+        3. LeetCode 543 (Diameter of Binary Tree ★) - XJ
+        4. LeetCode 104 (Maximum Depth of Binary Tree ★) - JZ
+        5. LeetCode 102 (Binary Tree Level Order Traversal ★★) - XJ
+        6. LeetCode 236 (Lowest Common Ancestor of a Binary Tree ★★) - JZ
+        7. LeetCode 199 (Binary Tree Right Side View ★★) - XJ
+        8. LeetCode 105 (Construct Binary Tree from Preorder and Inorder Traversal ★★) - JZ
+        9. LeetCode 297 (Serialize and Deserialize Binary Tree ★★★) - XJ
+    6. **Binary Search**
+        1. LeetCode 704 (Binary Search ★) - JZ
+        2. LeetCode 278 (First Bad Version ★) - XJ
+        3. LeetCode 33 (Search in Rotated Sorted Array ★★) - JZ
+        4. LeetCode 981 (Time Based Key-Value Store ★★) - XJ
+        5. LeetCode 1235 (Maximum Profit in Job Scheduling ★★★) - JZ
+    7. **Graphs**
+        1. LeetCode 733 (Flood Fill ★) - XJ
+        2. LeetCode 542 (01 Matrix ★★) - JZ
+        3. LeetCode 133 (Clone Graph ★★) - XJ
+        4. LeetCode 207 (Course Schedule ★★) - JZ
+        5. LeetCode 200 (Number of Islands ★★) - XJ
+        6. LeetCode 994 (Rotting Oranges ★★) - JZ
+        7. LeetCode 721 (Accounts Merge ★★) - XJ
+        8. LeetCode 79 (Word Search ★★) - JZ
+        9. LeetCode 310 (Minimum Height Trees ★★) - XJ
+        10. LeetCode 127 (Word Ladder ★★★) - JZ
+    8. **Dynamic Programming**
+        1. LeetCode 70 (Climbing Stairs ★) - XJ
+        2. LeetCode 53 (Maximum Subarray ★★) - JZ
+        3. LeetCode 322 (Coin Change ★★) - XJ
+        4. LeetCode 416 (Partition Equal Subset Sum ★★) - JZ
+        5. LeetCode 62 (Unique Paths ★★) - XJ
+    9. **Binary Search Trees**
+        1. LeetCode 235 (Lowest Common Ancestor of a Binary Search Tree ★★) - JZ
+        2. LeetCode 98 (Validate Binary Search Tree ★★) - XJ
+        3. LeetCode 230 (Kth Smallest Element in a BST ★★) - JZ
+    10. **Hash Tables**
+        1. LeetCode 383 (Ransom Note ★) - XJ
+    11. **Binary and Bit Operations**
+        1. LeetCode 67 (Add Binary ★) - JZ
+    12. **Heaps**
+        1. LeetCode 973 (K Closest Points to Origin ★★) - XJ
+        2. LeetCode 621 (Task Scheduler ★★) - JZ
+        3. LeetCode 295 (Find Median from Data Stream ★★★) - XJ
+        4. LeetCode 23 (Merge K Sorted Lists ★★★) - JZ
+    13. **Tries**
+        1. LeetCode 208 (Implement Trie (Prefix Tree) ★★) - XJ
+        2. LeetCode 139 (Word Break ★★) - JZ
+    14. **Recursion and Backtracking**
+        1. LeetCode 46 (Permutations ★★) - XJ
+        2. LeetCode 78 (Subsets ★★) - JZ
+        3. LeetCode 17 (Letter Combinations of a Phone Number ★★) - XJ
+    15. **Matrices**
+        1. LeetCode 54 (Spiral Matrix ★★) - JZ
